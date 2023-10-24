@@ -37,7 +37,7 @@
 
  Por fim aprendi também a praticidade de middleware que no código por exemplo, verifica se uma conta com o CPF fornecido existe antes de permitir que outras rotas sejam acessadas.
 
-## 🛸 Dove puoi trovarmi
+## 🤌🏻 Dove puoi trovarmi
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-moreira-santos)
 
 
